@@ -160,6 +160,6 @@ Aspiring Data Analyst | Power BI | SQL | Python | Data Visualization | Business 
 
 ---
 
-## 📌 Project Type
+##  Project Type
 
 **Business Intelligence Dashboard | Power BI Analytics Project | Data Visualization Portfolio Project**
