@@ -146,7 +146,7 @@ Through this project, I gained practical experience in:
 
 ##  Project Structure
 
-Nike-Sales-Dashboard/
+Dashboard-Creation-PowerBI
 │
 ├── nike_sale(dark).pbix
 └── README.md
